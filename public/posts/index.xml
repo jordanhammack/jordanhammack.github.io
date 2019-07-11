@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - She was like the sea.</title>
+    <link>http://100.115.92.194:1313/posts/</link>
+    <description>Recent content in Posts on She was like the sea.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2019 20:10:07 -0700</lastBuildDate>
+    
+        <atom:link href="http://100.115.92.194:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Broken Branch</title>
+      <link>http://100.115.92.194:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 08 Jul 2019 20:10:07 -0700</pubDate>
+      
+      <guid>http://100.115.92.194:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
