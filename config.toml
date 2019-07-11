@@ -1,9 +1,0 @@
-baseURL = "http://100.115.92.194:1313"
-languageCode = "en-us"
-title = "She was like the sea."
-theme = "aether"
-
-[params]
-brand = "Someones Mother"
-description = "The website's description"
-bgimg = "background.jpg"
